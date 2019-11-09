@@ -1,0 +1,13 @@
+{
+  "name": "Sopsy/HttpMessageInterfaces",
+  "description": "HTTP message interfaces",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "Sopsy\\HttpMessageInterfaces\\": "src/"
+    }
+  },
+  "require": {
+    "php": "^7.3"
+  }
+}
